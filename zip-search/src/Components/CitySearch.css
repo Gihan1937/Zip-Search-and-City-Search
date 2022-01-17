@@ -1,0 +1,14 @@
+form {
+    text-align: center;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 125%;
+}
+
+.city {
+    width: 100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 0px 10px 0px;
+}

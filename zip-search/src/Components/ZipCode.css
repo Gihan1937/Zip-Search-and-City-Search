@@ -1,0 +1,22 @@
+#cityHeader {
+    text-align: center;
+    padding: 10px 5px 10px 5px;
+}
+
+.zipCode {
+    width: 400px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 125%;
+}
+
+p {
+    text-align: center;
+}
